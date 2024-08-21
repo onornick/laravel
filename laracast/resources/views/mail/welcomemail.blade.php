@@ -1,0 +1,1 @@
+<h1>This is a mail from {{ $name }}</h1>
